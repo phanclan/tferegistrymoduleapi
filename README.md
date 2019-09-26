@@ -7,7 +7,6 @@
         curl -H "Authorization: Bearer $TOKEN" \  
             https://app.terraform.io/api/registry/v1/modules/pphan/ \  
             | jq  
-            
     * Replace "**pphan**" with your org name  
   
 ## Create a Module  
