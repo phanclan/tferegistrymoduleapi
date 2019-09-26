@@ -129,6 +129,8 @@
         https://archivist.terraform.io/v1/object/dmF1bHQ6djE6TTl5RmRjVU9xd1NLMHV5aWIzVFpnQ1FRbjRQQnA4K2hNZFNRa2psNXJrVGNTc0hoVmFWOVJZcnlmK0dNVFhoeUt0SHM2VnkvQnpmcDFjUWVpNm5pQk9BTjRUS1g4OUZENGtOQ055UW56SisvZXBTbXNGTEpIckZ6OERQVU1aYUxzbWR0L2Nkbjk1VGZGZmhIaW5DaGRRVWJ3MGljanVYSGdOOVhMcml4MkoxeFFFdE1xeGp4MnlDZkpEcmlhSE5pbGV0Q2NuRS8wYWlyMEZ5em5NNlVqbWxDNUoxcTJLRDZWMS9pMk0zSGFKU1FZR0pyN3dEZ1l2bzlqUUZpdGxvMS9YSlhmSk51TGljUVdDWEFnVXppb09pL0tNVjlZWVJPV092aUExVzkyUT09  
   
     * **NOTE**: Object ID URL came from module version response.  
+Source: https://www.terraform.io/docs/cloud/api/modules.html
+
 * List all modules  
     * ```  
         curl -H "Authorization: Bearer $TOKEN" \  
